@@ -1,4 +1,5 @@
 p {
+  /*Cada parrafo se visualiza en bloque*/
   display:  block;
   padding: 0.5em 0em 3em 0.5em;
 }

@@ -4,5 +4,22 @@ p {
 }
 
 h3 {
-  color: blue;
+  color: #F7B617;
+  font-family: cursive;
+}
+
+p a {
+  background-color: rgba(234, 235, 231, 0.68);
+}
+
+p a:link {
+  text-decoration: none;
+}
+
+p a:hover {
+  background-color: #F7B617;
+}
+
+p a:visited {
+  color: black;
 }

@@ -1,6 +1,7 @@
 p {
-  display:  inline;
+  display:  inline-block;
   padding: 1em 10em 5em 1em;
+  margin-right: 1em;
 }
 
 .orange {
